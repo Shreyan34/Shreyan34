@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Shreyan34
-- 👀 I’m interested in developing android apps using flutter.
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on flutter
-- 📫 Reach me in my twitter account, which is @AuthorShreyan
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Java
+- 📫 Reach me in my twitter account, which is @just_shreyan
 
 <!---
 Shreyan34/Shreyan34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
