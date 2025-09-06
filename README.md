@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreyan34
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Java
-- 📫 Reach me in my twitter account, which is @just_shreyan
+- 📫 Reach me in my instagram account, which is @just_shreyan
 
 <!---
 Shreyan34/Shreyan34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
